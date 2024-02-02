@@ -4,9 +4,11 @@
 ### - 🌱 I’m currently learning Computer Science
 ### - 👯 I’m looking to Software Developer & Quant Developer Intern/Co-op/New Grad position
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUeQiii)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUeQiii)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YUeQiii&repo=Annotator)](https://github.com/YUeQiii/Annotator)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YUeQiii&repo=Project_Management_Tool)](https://github.com/YUeQiii/Project_Management_Tool
 
 
 <!--
