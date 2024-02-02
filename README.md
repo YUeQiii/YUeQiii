@@ -8,7 +8,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YUeQiii&repo=Annotator)](https://github.com/YUeQiii/Annotator)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YUeQiii&repo=Project_Management_Tool)](https://github.com/YUeQiii/Project_Management_Tool
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YUeQiii&repo=Project_Management_Tool)](https://github.com/YUeQiii/Project_Management_Tool)
 
 
 <!--
