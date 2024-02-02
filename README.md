@@ -1,8 +1,11 @@
 
 ### Hi there 👋
-### - 🔭 I’m currently studying at the University of Chicago ...
+### - 😄 Ex SDE intern@Eth Tech, SDE intern@Hundsun | CS master's Student@Uchicago | GHC 23' |
+### - 🔭 I’m currently studying at the University of Chicago
 ### - 🌱 I’m currently learning Computer Science
 ### - 👯 I’m looking to Software Developer & Quant Developer Intern/Co-op/New Grad position
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUeQiii)](https://github.com/anuraghazra/github-readme-stats)
 
